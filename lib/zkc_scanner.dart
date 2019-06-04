@@ -4,7 +4,7 @@ import 'package:zkc_scanner/scanner_callback.dart';
 export 'package:zkc_scanner/scanner_callback.dart';
 
 class ZKCScanner {
-  static const String _METHOD_CHANNEL = "zkcscanner";
+  static const _METHOD_CHANNEL = "zkcscanner";
   static const _START_SCANNER = "startScanner";
   static const _RESUME_SCANNER = "resumeScanner";
   static const _PAUSE_SCANNER = "pauseScanner";
