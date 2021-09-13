@@ -22,29 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a3721e8-8bb7-4fc9-9e62-ca0632757bf5" name="Default" comment="- Support for null-safety">
-      <change afterPath="$PROJECT_DIR$/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/analysis_options.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/plugin/flutter/zkcscanner/ZkcScannerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/plugin/flutter/zkcscanner/ZkcScannerPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/android/src/main/java/com/plugin/flutter/zkcscanner/ZkcScannerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/android/src/main/java/com/plugin/flutter/zkcscanner/ZkcScannerPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/zkc_scanner.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/zkc_scanner.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="3a3721e8-8bb7-4fc9-9e62-ca0632757bf5" name="Default" comment="- Android plugin API updated to support v2 Embedding while remaining compatible with apps that don’t use the v2 Android embedding." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/krrigan/.android/avd/Pixel_4_API_30.avd]" />
   <component name="Git.Settings">
@@ -169,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618512918598</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- Android plugin API updated to support v2 Embedding while remaining compatible with apps that don’t use the v2 Android embedding.">
+      <created>1631562819469</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631562819469</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +202,8 @@
     <MESSAGE value="- check-publish and publish scripts created to make it easy to publish the plugin&#10;- Plugin v1.0.0+2 published" />
     <MESSAGE value="- Support for latest flutter frameworks" />
     <MESSAGE value="- Support for null-safety" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Support for null-safety" />
+    <MESSAGE value="- Android plugin API updated to support v2 Embedding while remaining compatible with apps that don’t use the v2 Android embedding." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Android plugin API updated to support v2 Embedding while remaining compatible with apps that don’t use the v2 Android embedding." />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619642512825">
