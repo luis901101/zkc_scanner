@@ -25,3 +25,8 @@ zkcScanner.scannerCallBack = this; // this must implement ScannerCallBack
 zkcScanner.startScanner();
 zkcScanner.stopScanner();
 ```
+
+## Other plugins you may be interested in
+
+- [honeywell_scanner](https://pub.dev/packages/honeywell_scanner)
+- [blue_bird_scanner](https://pub.dev/packages/blue_bird_scanner)
