@@ -22,7 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a3721e8-8bb7-4fc9-9e62-ca0632757bf5" name="Default" comment="- Android plugin API updated to support v2 Embedding while remaining compatible with apps that don’t use the v2 Android embedding." />
+    <list default="true" id="3a3721e8-8bb7-4fc9-9e62-ca0632757bf5" name="Default" comment="- Homepage updated to github repo">
+      <change afterPath="$PROJECT_DIR$/.pubignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.pubignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +55,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -58,8 +64,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/example" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/example" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
@@ -163,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631562819469</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="- Homepage updated to github repo">
+      <created>1631563240691</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631563240691</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,88 +216,13 @@
     <MESSAGE value="- Support for latest flutter frameworks" />
     <MESSAGE value="- Support for null-safety" />
     <MESSAGE value="- Android plugin API updated to support v2 Embedding while remaining compatible with apps that don’t use the v2 Android embedding." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Android plugin API updated to support v2 Embedding while remaining compatible with apps that don’t use the v2 Android embedding." />
+    <MESSAGE value="- Homepage updated to github repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Homepage updated to github repo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619642512825">
-      <screen x="0" y="23" width="1536" height="937" />
+    <state x="487" y="299" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631563643460">
+      <screen x="0" y="25" width="1536" height="935" />
     </state>
-    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.937@0.23.1536.937" timestamp="1619642512825" />
-    <state x="506" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618509091200">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state x="506" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1536.937@0.23.1536.937" timestamp="1618509091200" />
-    <state width="1494" height="243" key="GridCell.Tab.0.bottom" timestamp="1618512933570">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618512933570" />
-    <state width="1494" height="243" key="GridCell.Tab.0.center" timestamp="1618512933569">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
-    <state width="1494" height="243" key="GridCell.Tab.0.left" timestamp="1618512933569">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
-    <state width="1494" height="243" key="GridCell.Tab.0.right" timestamp="1618512933570">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1618512933570" />
-    <state width="1494" height="243" key="GridCell.Tab.1.bottom" timestamp="1618512933568">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.1.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
-    <state width="1494" height="243" key="GridCell.Tab.1.center" timestamp="1618512933567">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.1.center/0.23.1536.937@0.23.1536.937" timestamp="1618512933567" />
-    <state width="1494" height="243" key="GridCell.Tab.1.left" timestamp="1618512933567">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.1.left/0.23.1536.937@0.23.1536.937" timestamp="1618512933567" />
-    <state width="1494" height="243" key="GridCell.Tab.1.right" timestamp="1618512933567">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.1.right/0.23.1536.937@0.23.1536.937" timestamp="1618512933567" />
-    <state width="1494" height="243" key="GridCell.Tab.2.bottom" timestamp="1618512933568">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.2.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
-    <state width="1494" height="243" key="GridCell.Tab.2.center" timestamp="1618512933568">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.2.center/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
-    <state width="1494" height="243" key="GridCell.Tab.2.left" timestamp="1618512933568">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.2.left/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
-    <state width="1494" height="243" key="GridCell.Tab.2.right" timestamp="1618512933568">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.2.right/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
-    <state width="1494" height="243" key="GridCell.Tab.3.bottom" timestamp="1618512933569">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.3.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
-    <state width="1494" height="243" key="GridCell.Tab.3.center" timestamp="1618512933569">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.3.center/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
-    <state width="1494" height="243" key="GridCell.Tab.3.left" timestamp="1618512933569">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.3.left/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
-    <state width="1494" height="243" key="GridCell.Tab.3.right" timestamp="1618512933569">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state width="1494" height="243" key="GridCell.Tab.3.right/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
-    <state x="517" y="201" key="RollbackChangesDialog" timestamp="1619793230663">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state x="517" y="201" key="RollbackChangesDialog/0.23.1536.937@0.23.1536.937" timestamp="1619793230663" />
-    <state x="269" y="123" key="SettingsEditor" timestamp="1619642744732">
-      <screen x="0" y="23" width="1536" height="937" />
-    </state>
-    <state x="269" y="123" key="SettingsEditor/0.23.1536.937@0.23.1536.937" timestamp="1619642744732" />
+    <state x="487" y="299" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1536.935@0.25.1536.935" timestamp="1631563643460" />
   </component>
 </project>
