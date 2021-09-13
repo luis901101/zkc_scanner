@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,34 +22,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a3721e8-8bb7-4fc9-9e62-ca0632757bf5" name="Default" comment="- Support for latest flutter frameworks">
+    <list default="true" id="3a3721e8-8bb7-4fc9-9e62-ca0632757bf5" name="Default" comment="- Support for null-safety">
+      <change afterPath="$PROJECT_DIR$/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/analysis_options.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/plugin/flutter/zkcscanner/ZkcScannerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/plugin/flutter/zkcscanner/ZkcScannerPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/lib/scanner_callback.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/lib/scanner_callback.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/lib/zkc_scanner.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/lib/zkc_scanner.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/android/src/main/java/com/plugin/flutter/zkcscanner/ZkcScannerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/android/src/main/java/com/plugin/flutter/zkcscanner/ZkcScannerPlugin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/scanner_callback.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/scanner_callback.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/zkc_scanner.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/zkc_scanner.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
@@ -55,15 +46,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[19101B147D]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/krrigan/.android/avd/Pixel_4_API_30.avd]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
   </component>
   <component name="ProjectId" id="1rDRy68aVTzi2L1exqLFglosR6G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -76,12 +62,17 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
@@ -117,6 +108,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -170,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602314952948</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="- Support for null-safety">
+      <created>1618512918598</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618512918598</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,76 +207,89 @@
     <MESSAGE value="- minor warnings fixed&#10;- v0.0.1 uploaded to pub.dev" />
     <MESSAGE value="- check-publish and publish scripts created to make it easy to publish the plugin&#10;- Plugin v1.0.0+2 published" />
     <MESSAGE value="- Support for latest flutter frameworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Support for latest flutter frameworks" />
+    <MESSAGE value="- Support for null-safety" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Support for null-safety" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619642512825">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.937@0.23.1536.937" timestamp="1619642512825" />
     <state x="506" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618509091200">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
     <state x="506" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1536.937@0.23.1536.937" timestamp="1618509091200" />
-    <state width="1494" height="243" key="GridCell.Tab.0.bottom" timestamp="1618511600149">
+    <state width="1494" height="243" key="GridCell.Tab.0.bottom" timestamp="1618512933570">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618511600149" />
-    <state width="1494" height="243" key="GridCell.Tab.0.center" timestamp="1618511600149">
+    <state width="1494" height="243" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618512933570" />
+    <state width="1494" height="243" key="GridCell.Tab.0.center" timestamp="1618512933569">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1618511600149" />
-    <state width="1494" height="243" key="GridCell.Tab.0.left" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
+    <state width="1494" height="243" key="GridCell.Tab.0.left" timestamp="1618512933569">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
-    <state width="1494" height="243" key="GridCell.Tab.0.right" timestamp="1618511600149">
+    <state width="1494" height="243" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
+    <state width="1494" height="243" key="GridCell.Tab.0.right" timestamp="1618512933570">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1618511600149" />
-    <state width="1494" height="243" key="GridCell.Tab.1.bottom" timestamp="1618511600147">
+    <state width="1494" height="243" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1618512933570" />
+    <state width="1494" height="243" key="GridCell.Tab.1.bottom" timestamp="1618512933568">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.1.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618511600147" />
-    <state width="1494" height="243" key="GridCell.Tab.1.center" timestamp="1618511600147">
+    <state width="1494" height="243" key="GridCell.Tab.1.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
+    <state width="1494" height="243" key="GridCell.Tab.1.center" timestamp="1618512933567">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.1.center/0.23.1536.937@0.23.1536.937" timestamp="1618511600147" />
-    <state width="1494" height="243" key="GridCell.Tab.1.left" timestamp="1618511600147">
+    <state width="1494" height="243" key="GridCell.Tab.1.center/0.23.1536.937@0.23.1536.937" timestamp="1618512933567" />
+    <state width="1494" height="243" key="GridCell.Tab.1.left" timestamp="1618512933567">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.1.left/0.23.1536.937@0.23.1536.937" timestamp="1618511600147" />
-    <state width="1494" height="243" key="GridCell.Tab.1.right" timestamp="1618511600147">
+    <state width="1494" height="243" key="GridCell.Tab.1.left/0.23.1536.937@0.23.1536.937" timestamp="1618512933567" />
+    <state width="1494" height="243" key="GridCell.Tab.1.right" timestamp="1618512933567">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.1.right/0.23.1536.937@0.23.1536.937" timestamp="1618511600147" />
-    <state width="1494" height="243" key="GridCell.Tab.2.bottom" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.1.right/0.23.1536.937@0.23.1536.937" timestamp="1618512933567" />
+    <state width="1494" height="243" key="GridCell.Tab.2.bottom" timestamp="1618512933568">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.2.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
-    <state width="1494" height="243" key="GridCell.Tab.2.center" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.2.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
+    <state width="1494" height="243" key="GridCell.Tab.2.center" timestamp="1618512933568">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.2.center/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
-    <state width="1494" height="243" key="GridCell.Tab.2.left" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.2.center/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
+    <state width="1494" height="243" key="GridCell.Tab.2.left" timestamp="1618512933568">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.2.left/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
-    <state width="1494" height="243" key="GridCell.Tab.2.right" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.2.left/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
+    <state width="1494" height="243" key="GridCell.Tab.2.right" timestamp="1618512933568">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.2.right/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
-    <state width="1494" height="243" key="GridCell.Tab.3.bottom" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.2.right/0.23.1536.937@0.23.1536.937" timestamp="1618512933568" />
+    <state width="1494" height="243" key="GridCell.Tab.3.bottom" timestamp="1618512933569">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.3.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
-    <state width="1494" height="243" key="GridCell.Tab.3.center" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.3.bottom/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
+    <state width="1494" height="243" key="GridCell.Tab.3.center" timestamp="1618512933569">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.3.center/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
-    <state width="1494" height="243" key="GridCell.Tab.3.left" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.3.center/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
+    <state width="1494" height="243" key="GridCell.Tab.3.left" timestamp="1618512933569">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.3.left/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
-    <state width="1494" height="243" key="GridCell.Tab.3.right" timestamp="1618511600148">
+    <state width="1494" height="243" key="GridCell.Tab.3.left/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
+    <state width="1494" height="243" key="GridCell.Tab.3.right" timestamp="1618512933569">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1494" height="243" key="GridCell.Tab.3.right/0.23.1536.937@0.23.1536.937" timestamp="1618511600148" />
+    <state width="1494" height="243" key="GridCell.Tab.3.right/0.23.1536.937@0.23.1536.937" timestamp="1618512933569" />
+    <state x="517" y="201" key="RollbackChangesDialog" timestamp="1619793230663">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="517" y="201" key="RollbackChangesDialog/0.23.1536.937@0.23.1536.937" timestamp="1619793230663" />
+    <state x="269" y="123" key="SettingsEditor" timestamp="1619642744732">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="269" y="123" key="SettingsEditor/0.23.1536.937@0.23.1536.937" timestamp="1619642744732" />
   </component>
 </project>
