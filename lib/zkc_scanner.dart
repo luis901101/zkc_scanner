@@ -19,7 +19,7 @@ class ZKCScanner {
   ZKCScanner({ScannerCallBack? scannerCallBack}) {
     _channel = const MethodChannel(_METHOD_CHANNEL);
     _channel.setMethodCallHandler(_onMethodCall);
-    this._scannerCallBack = scannerCallBack;
+    _scannerCallBack = scannerCallBack;
   }
 
   set scannerCallBack(ScannerCallBack scannerCallBack) => _scannerCallBack = scannerCallBack;

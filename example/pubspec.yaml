@@ -8,13 +8,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  zkc_scanner:
+    path: ../
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^1.0.4
 
-  zkc_scanner:
-    path: ../
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec

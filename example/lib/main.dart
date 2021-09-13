@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:zkc_scanner/zkc_scanner.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(const MyApp());
 
 class MyApp extends StatefulWidget {
+  const MyApp({Key? key}) : super(key: key);
+
   @override
   _MyAppState createState() => _MyAppState();
 }
@@ -44,20 +46,20 @@ class _MyAppState extends State<MyApp> implements ScannerCallBack{
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text('Scanner: $_scannedStatus'),
-            Divider(color: Colors.transparent,),
+            const Divider(color: Colors.transparent,),
             Text('Scanned code: $_scannedCode'),
-            Divider(color: Colors.transparent,),
+            const Divider(color: Colors.transparent,),
             ElevatedButton(
-              child: Text("Start Scanner"),
+              child: const Text("Start Scanner"),
               onPressed: (){
                 zkcScanner.startScanner();
                 _scannedStatus = "Started";
                 setState(() {});
               },
             ),
-            SizedBox(height: 16,),
+            const SizedBox(height: 16,),
             ElevatedButton(
-              child: Text("Stop Scanner"),
+              child: const Text("Stop Scanner"),
               onPressed: (){
                 zkcScanner.stopScanner();
                 _scannedStatus = "Stopped";
