@@ -22,12 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a3721e8-8bb7-4fc9-9e62-ca0632757bf5" name="Default" comment="- Homepage updated to github repo">
-      <change afterPath="$PROJECT_DIR$/.pubignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.pubignore" afterDir="false" />
+    <list default="true" id="3a3721e8-8bb7-4fc9-9e62-ca0632757bf5" name="Default" comment="- README.md updated">
+      <change afterPath="$PROJECT_DIR$/example/.pubignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/example/.pubignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/zkc_scanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/zkc_scanner/zkc_scanner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkc_scanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zkc_scanner.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -64,8 +65,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631563240691</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- README.md updated">
+      <created>1631563920516</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1631563920516</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +225,8 @@
     <MESSAGE value="- Support for null-safety" />
     <MESSAGE value="- Android plugin API updated to support v2 Embedding while remaining compatible with apps that don’t use the v2 Android embedding." />
     <MESSAGE value="- Homepage updated to github repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Homepage updated to github repo" />
+    <MESSAGE value="- README.md updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="- README.md updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="487" y="299" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631563643460">
